@@ -5,12 +5,12 @@
 
 ### 👋 ¡Bienvenido/a!
 
-Soy **espinosadev**, desarrollador de software 🧑‍💻 centrado en **Java** y **JavaFX**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
+Soy **espinosadev**, aprendiendo desarrollo de software 🧑‍💻 centrado en **Java** y **JavaFX**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
 - 🔭 **Proyecto actual:** [Gestor de Tareas](https://github.com/espinosa-dev/gestor-tareas) — app de escritorio JavaFX para organizar tareas.
-- 🌐 **Mi web / blog:** [espinosadev.com](https://TU-DOMINIO-WORDPRESS) (WordPress) — tutoriales y notas de desarrollo.
-- 🌱 **Aprendiendo:** Spring Boot, pruebas automatizadas, CI/CD con GitHub Actions y algo de JavaScript moderno.
+- 🌐 **Mi web** [espinosadev.es](https://espinosadev.es) — tutoriales y notas de desarrollo.
+- 🌱 **Aprendiendo:** Spring Boot, pruebas automatizadas, CI/CD con GitHub Actions.
 - 💬 **Pregúntame sobre:** Java, Maven, CSS en JavaFX, maquetación web con Flexbox / Grid.
 - 📫 **Contacto:** abre un issue o escríbeme a mi correo en el perfil.
 
