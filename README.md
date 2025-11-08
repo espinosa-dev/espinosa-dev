@@ -8,7 +8,7 @@
 Soy **espinosadev**, aprendiendo desarrollo de aplicaciones multimataforma 🧑‍💻 centrado actualmente en **Java**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🔭 **Proyecto actual:** [Gestor de Tareas](https://github.com/espinosa-dev/gestor-tareas) — app de escritorio JavaFX para organizar tareas.
+- 🔭 **Proyecto actual:** [Casino DAM](https://github.com/espinosa-dev/casinoDAM) — Intento de casino con mis compañeros de clase.
 - 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.
 - 📫 **Contacto:** Discord: `s3xx0xd.`
 
