@@ -22,7 +22,7 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-idea?style=for-the-badge&logo=intellijidea&color=%238800e7)
-![JAVA](https://img.shields.io/badge/java-lenguaje?style=for-the-badge&logo=java&color=%2339a4fe)
+![JAVA](https://img.shields.io/badge/java-lenguaje?style=for-the-badge&logo=coffeescript&color=%2339a4fe)
 
 ---
 
