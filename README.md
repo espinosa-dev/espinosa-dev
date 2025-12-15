@@ -8,7 +8,7 @@
 Soy **espinosadev**, aprendiendo desarrollo de aplicaciones multimataforma 🧑‍💻 centrado actualmente en **Java**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🔭 **Proyecto actual:** [Casino DAM](https://github.com/espinosa-dev/casinoDAM) — Intento de casino con mis compañeros de clase.
+- 🔭 **Proyecto actual:** [Árbol Navidad](https://github.com/espinosa-dev/ArbolNavidad) — Árbol de Navidad por consola.
 - 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.
 - 📫 **Contacto:** Discord: `s3xx0xd.`
 
