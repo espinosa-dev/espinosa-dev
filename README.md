@@ -1,6 +1,6 @@
 <!-- Perfil README — espinosa-dev -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=3000&pause=2000&color=2B74FF&background=FF000000&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+soy+espinosadev!;Java+%7C+Frontend+Web+;Aprendiendo+y+compartiendo+c%C3%B3digo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&duration=3000&pause=2000&color=2B74FF&background=FF000000&center=true&vCenter=true&width=500&height=100&lines=Hola%2C+soy+espinosadev!;Java+%7C+Frontend+Web+;Aprendiendo+y+compartiendo+c%C3%B3digo" alt="Typing SVG" /></a>
 </p>
 
 ### 👋 ¡Bienvenido/a!
