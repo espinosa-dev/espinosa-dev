@@ -8,9 +8,9 @@
 Soy **espinosadev**, aprendiendo desarrollo de aplicaciones multimataforma 🧑‍💻 centrado actualmente en **Java**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🔭 **Proyecto actual:** [Árbol Navidad](https://github.com/espinosa-dev/ArbolNavidad) — Árbol de Navidad por consola.
+- 🔭 **Proyecto actual:** [MICROODS](https://github.com/espinosa-dev/MICROODS) — Página web con micro juegos ODS.
 - 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.
-- 📫 **Contacto:** Discord: `s3xx0xd.`
+- 📫 **Contacto:** `alvaroespinosamontesinos@gmail.com`
 
 ---
 
