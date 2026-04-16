@@ -26,6 +26,8 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=espinosa-dev&theme=transparent&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=espinosa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
 </p>
 
 ---
