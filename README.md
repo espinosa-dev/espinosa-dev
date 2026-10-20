@@ -1,6 +1,6 @@
 <!-- Perfil README — espinosa-dev -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Hola%2C+soy+%C3%81lvaro+Espinosa!+👋;Desarrollo+Multiplataforma+%7C+Frontend+Web;Aprendiendo+y+compartiendo+c%C3%B3digo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Hola%2C+soy+%C3%81lvaro+Espinosa!+%F0%9F%91%8B;Desarrollo+Multiplataforma+%7C+Frontend+Web;Aprendiendo+y+compartiendo+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ### 👋 ¡Bienvenido/a!
