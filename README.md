@@ -4,8 +4,10 @@
 Soy Álvaro Espinosa, aprendiendo desarrollo de aplicaciones multimataforma, centrado actualmente en **Java, Kotlin y JavaScript**, con gusto por el **backend y los datos**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🔭 **Proyecto actual:** [JavaScript](https://github.com/espinosa-dev/javascript) — Ejercicios de JavaScript.
+- 🔭 **Proyecto actual:** [RYO](https://github.com/espinosa-dev/ryo) — Sistema de incidencias y ticketing.
 - 🌱 **Aprendiendo:** Desarrollo de Aplicaciones Multiplataforma.
+    
+   ↳ [JavaScript](https://github.com/espinosa-dev/javascript) — Ejercicios de JavaScript.
 - 📫 **Contacto:** `alvaroespinosamontesinos@gmail.com`
 
 ---
