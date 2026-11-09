@@ -1,5 +1,5 @@
 <!-- Perfil README — espinosa-dev -->
-### 👋 ¡Bienvenido/a!
+# 👋 ¡Bienvenido/a!
 
 Soy Álvaro Espinosa, aprendiendo desarrollo de aplicaciones multimataforma, centrado actualmente en **Java, Kotlin y JavaScript**, con gusto por el **backend y los datos**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
