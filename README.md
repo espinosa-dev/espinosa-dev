@@ -4,11 +4,11 @@
 Soy Álvaro Espinosa, aprendiendo desarrollo de aplicaciones multimataforma, centrado actualmente en **Java, Kotlin y JavaScript**, con gusto por el **backend y los datos**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🔭 **Proyecto actual:** [RYO](https://github.com/espinosa-dev/ryo) — Sistema de incidencias y ticketing.
 - 🌱 **Aprendiendo:** Desarrollo de Aplicaciones Multiplataforma.
-    
-   ↳ [JavaScript](https://github.com/espinosa-dev/javascript) — Ejercicios de JavaScript.
 - 📫 **Contacto:** `alvaroespinosamontesinos@gmail.com`
+
+## 🔭 Proyecto actual
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=espinosa-dev&repo=ryo&show=prs_authored,prs_commented,prs_reviewed,ssues_authored,issues_commented&theme=dark_github)](https://github.com/espinosa-dev/RYO)
 
 ---
 
@@ -86,13 +86,16 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espinosa-dev&theme=transparent&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=espinosa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espinosa-dev&theme=transparent&hide_border=true" alt="Streak" /> <br>
+  <img src="https://github-stats-extended.vercel.app/api?username=espinosa-dev&show=contributions,all_time_contribs,prs_merged,issues_authored&theme=dark_github" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=espinosa-dev&theme=dark_github" alt="Top Languagues" />
 </p>
 
 ---
 
+
+
+---
 
 > “La mejor manera de aprender es **compartir** lo que sabes.”
 
