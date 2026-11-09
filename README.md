@@ -29,7 +29,7 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 [![EDIT](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 ### Planificación, documentación y compilación
-[![PDC](https://skillicons.dev/icons?i=trello,notion,gradle,bash,powershell)](https://skillicons.dev)
+[![PDC](https://skillicons.dev/icons?i=notion,gradle,bash,powershell)](https://skillicons.dev)
 
 ### IDE
 [![IDE](https://skillicons.dev/icons?i=vscode,idea,androidstudio,pycharm)](https://skillicons.dev)
